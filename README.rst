@@ -10,6 +10,10 @@ on the eyes.
 The name is inspired by the mythical Sphinx who asked travellers a riddle to
 allow them passage.
 
+Example:
+
+.. image:: http://honza.ca/riddle/screenshot.png
+
 License
 -------
 
